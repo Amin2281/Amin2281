@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Amin2281
-- 👀 I’m interested in gamedev
-- 🌱 I’m currently learning python, c# and c++
-- 💞️ I’m looking to collaborate on \_(-_-)_/
-- 📫 How to reach me  \_(-_-)_/
-
-<!---
-Amin2281/Amin2281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hi, my name is Amin, 18 years old , I am fond of games. I am entering UA school / 2-year Master Game Design. I am actively studying C#, Java, Python. I like to work in a team, mainly as a leader. I find a common language with everyone
